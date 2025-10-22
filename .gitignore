@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But include Python and JSON files
+!*.py
+!*.json
+!.gitignore
